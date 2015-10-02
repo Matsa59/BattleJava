@@ -7,5 +7,7 @@ Caution : models have been synchronized and packages have been observed as the t
 Because this exercice is really bad, you can have an inifite loop...
 So when you run it does not wait more than 5 secondes (kill thread otherwise).
 
+see : https://github.com/smile59/BattleJava/tree/master/src/fr/epsi/battle
+
 # Source
 EPSI Lille-JAVA exercice 1
